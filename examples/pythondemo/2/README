@@ -1,1 +1,7 @@
-Hello, Flask!
+Notice:
+1、初次使用请进入应用控制面板激活数据库
+2、使用此例，应建立名为"demo"的table,并在下面建立字段类型为"text"的‘text’字段
+3、所有代码部署好后，可进入
+/
+/demo
+这两个界面查看你的hello world
